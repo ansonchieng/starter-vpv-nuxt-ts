@@ -13,5 +13,8 @@
     "@vue-pdf-viewer/viewer": "latest",
     "nuxt": "^3.12.3",
     "vue": "latest"
+  },
+  "overrides": {
+    "pdfjs-dist": "4.2.67"
   }
 }
