@@ -23,7 +23,8 @@ logs
 .env.*
 !.env.example
 
-pnpm-lock.yaml
 bun.lockb
 yarn.lock
 package-lock.json
+
+.npmrc
